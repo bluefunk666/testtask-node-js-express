@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "", //same as env
+    "password": "", //same as env
+    "database": "t", //same as env
+    "host": "", //same as env
+    "dialect": "postgres"
+  }
+}
